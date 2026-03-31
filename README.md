@@ -37,7 +37,8 @@ This project focuses on analyzing sales data from Vrinda Store to uncover meanin
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1549" height="660" alt="image" src="https://github.com/user-attachments/assets/ee5fdf2f-4e5e-4caf-a875-ef7f2709e580" />
+
 
 ---
 
